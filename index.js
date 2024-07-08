@@ -35,7 +35,7 @@ app.listen(port, () => {
   console.log(`🔗 Powered By RTX`);
 });
 
-const statusMessages = ["Playing 𝗣𝗹𝗮𝘆𝗶𝗻𝗴 𝗶𝗻 𝗔𝗧𝗟 𝗟𝗲𝗮𝗴𝘂𝗲 ⚽"];
+const statusMessages = ["Playing 𝗣𝗹𝗮𝘆𝗶𝗻𝗴 𝗶𝗻 𝗨𝗖𝗟 𝗟𝗲𝗮𝗴𝘂𝗲 ⚽"];
 
 let currentIndex = 0;
 const channelId = '';
