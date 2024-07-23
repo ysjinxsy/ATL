@@ -35,7 +35,7 @@ app.listen(port, () => {
   console.log(`🔗 Powered By RTX`);
 });
 
-const statusMessages = ["Playing 𝗣𝗹𝗮𝘆𝗶𝗻𝗴 𝗶𝗻 𝗨𝗙𝗦 𝗟𝗲𝗮𝗴𝘂𝗲 ⚽"];
+const statusMessages = ["Watching MRF .","Official MRF Bot","Playing MRF League"];
 
 let currentIndex = 0;
 const channelId = '';
