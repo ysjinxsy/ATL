@@ -35,7 +35,7 @@ app.listen(port, () => {
   console.log(`🔗 Powered By RTX`);
 });
 
-const statusMessages = ["Watching MRF .","Official MRF Bot","Playing MRF League"];
+const statusMessages = ["<:Invisible:1265760736936722484>"];
 
 let currentIndex = 0;
 const channelId = '';
