@@ -35,7 +35,7 @@ app.listen(port, () => {
   console.log(`🔗 Powered By RTX`);
 });
 
-const statusMessages = ["\<:Invisible:1265760736936722484>"];
+const statusMessages = ["‎ "];
 
 let currentIndex = 0;
 const channelId = '';
